@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman5225
-- 👀 I’m interested in artificial intelligence and aall it's branches
-- 🌱 I’m currently learning python
+- 👀 I’m interested in artificial intelligence and machine learning
+- 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on projects on artificial intelligence and machine learninng 
 - 📫 How to reach me ... through my amangurung5225@gmail.com
 
